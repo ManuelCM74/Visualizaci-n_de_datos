@@ -1,0 +1,22 @@
+---
+title: "Visualización con D3plus"
+format: html
+---
+
+
+```{r}
+library(D3plusR)
+library(dplyr)
+library(ggplot2)
+data <- data.frame(
+  name = c("A", "B", "C"),
+  value = c(10, 20, 30)
+)
+
+d3plus(data = data,
+       type = "bar",
+       id = "name") %>%
+  d3plusX(value = "name") %>%
+  d3plusY(value = "value")
+```
+

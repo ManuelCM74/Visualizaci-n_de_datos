@@ -1,0 +1,27 @@
+---
+title: "La ciencia de datos en el baloncesto"
+format: html
+editor: visual
+---
+
+## Introducción
+
+La ciencia de datos ha transformado radicalmente el deporte, proporcionando herramientas poderosas para el análisis de jugadores, equipos y estrategias. En el baloncesto, esta transformación ha permitido pasar de análisis simples, como los puntos y rebotes, a métricas avanzadas que capturan el impacto real de un jugador en el campo, independientemente de las estadísticas tradicionales. Los avances en la recopilación de datos y en la analítica deportiva han hecho posible una comprensión más profunda del juego, permitiendo tomar decisiones basadas en hechos objetivos y no solo en percepciones.
+
+Este trabajo tiene como objetivo aplicar estas herramientas para explorar cómo algunos de los jugadores más impactantes de la historia del baloncesto han influido en el juego. A través de la visualización de datos, analizaremos el impacto de varios jugadores, comenzando con la irrupción de Stephen Curry, quien ha marcado una era en la NBA y ha redefinido la importancia del tiro de tres puntos.
+
+Además de Curry, que será el foco de nuestro primer análisis, ampliaremos la visión hacia otros jugadores clave que también han dejado una huella indeleble en el baloncesto. A lo largo del trabajo, analizaremos cómo la llegada de estos jugadores ha influido en el estilo de juego, comparando el antes y después de su impacto en la NBA, y también en ligas internacionales como la Euroliga.
+
+El análisis se basará en la evolución de las estadísticas clave a lo largo del tiempo, tales como el volumen de triples lanzados, la eficiencia en el campo, y otros factores que reflejan el cambio en las estrategias de los equipos. A través de esta investigación, buscaremos obtener una visión más objetiva de cómo estos jugadores han moldeado el baloncesto moderno, destacando el poder de la ciencia de datos para iluminar tendencias y patrones en el deporte.
+
+## El Chef del triple: Cómo Stephen Curry cambió la NBA
+
+En esta sección exploraremos el fenómeno que marcó un antes y un después en el baloncesto moderno: Stephen Curry, apodado “El Chef” por su maestría preparando y ejecutando triples desde cualquier ángulo. Analizaremos cómo su estilo de juego —centrado en lanzamientos de larga distancia— no solo transformó las estrategias de los Golden State Warriors, sino que contagi‍‍ó su influencia a todo el mundo, incluyendo la Euroliga.
+
+Stephen Curry nació el 14 de marzo de 1988 en Akron, Ohio, aunque creció en Charlotte, Carolina del Norte. Hijo del exjugador de la NBA Dell Curry, destacó desde muy joven por su puntería y velocidad de lanzamiento. Tras una brillante etapa universitaria en Davidson College, donde lideró la nación en puntos por partido y llevó a su equipo a la élite del March Madness, Curry fue seleccionado en el 7.º puesto del Draft de la NBA de 2009 por los Golden State Warriors. A partir de ese momento, comenzó su meteórica carrera: redefinió los límites del tiro de tres puntos, ganó múltiples campeonatos y dos premios MVP de la liga, y se convirtió en el referente indiscutible del baloncesto de perímetro.
+
+Antes de la llegada de Curry, el tiro de tres puntos ya existía en la NBA desde 1979, pero no tenía la prominencia que tiene hoy. En las décadas de los 80 y 90, el triple era considerado una opción secundaria en el baloncesto, y aunque se fue incrementando su uso a lo largo de los años, el foco estaba aún en el juego interior y el tiro de media distancia. A partir de la llegada de Curry, su habilidad para lanzar desde cualquier parte del campo y en cualquier momento cambió radicalmente las estrategias de los equipos, y el triple pasó de ser una jugada complementaria a convertirse en el centro de las ofensivas.
+
+A continuación, presentaremos una visualización que contextualiza cómo se lanzaban los triples en la NBA desde los años 90 hasta la llegada de Curry, y cómo este tipo de jugada evolucionó con su irrupción en la liga. Esta visualización nos permitirá observar de manera objetiva el impacto de Curry en el aumento de los triples lanzados por temporada, tanto en la NBA como en otras competiciones.
+
+
